@@ -1,0 +1,27 @@
+# Partnerships page. Use *asterisks* for italics, **double** for bold, [text](url) for links.
+# {cv} is replaced with a link to the CV.
+intro: >-
+  I conduct my research in close collaboration with public agencies, colleges and universities,
+  and nonprofit organizations. Current partners include:
+
+groups:
+  - heading: State systems and public colleges and universities.
+    text: >-
+      My work with the [Virginia Community College System](https://www.vccs.edu), the
+      [Tennessee Board of Regents](https://www.tbr.edu), [Calbright College](https://www.calbright.edu),
+      and the [University of Hawaiʻi Community Colleges](https://uhcc.hawaii.edu) focuses on
+      identifying the policies and supports that help students earn credentials and advance
+      economically.
+  - heading: College advising organizations.
+    text: >-
+      With [Bottom Line](https://www.bottomline.org), [College Possible](https://collegepossible.org),
+      [Matriculate](https://matriculate.org), and CollegePoint, I
+      evaluate how intensive advising shapes degree attainment and, over the long run, earnings
+      and broader life outcomes.
+  - heading: Workforce training programs.
+    text: >-
+      I study innovative training models, including [Virginia FastForward](https://fastforwardva.org),
+      [Merit America](https://meritamerica.org), and [Coop Careers](https://www.coopcareers.org), to
+      identify what works to improve economic outcomes for working adults.
+
+closing: Additional partners appear in the papers and grants listed in my {cv}.

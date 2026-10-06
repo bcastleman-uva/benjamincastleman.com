@@ -1,0 +1,12 @@
+# Site-wide settings
+name: Ben Castleman
+# Each item is its own line under the name
+subtitle:
+  - Professor of Public Policy and Education
+  - Faculty Director of Research and Engagement
+  - University of Virginia
+email: castleman@virginia.edu
+url: https://benjamincastleman.com
+description: Ben Castleman, Professor of Public Policy and Education at the University of Virginia
+cv: /assets/Castleman_CV.pdf
+year: 2026

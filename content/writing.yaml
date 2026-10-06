@@ -1,0 +1,53 @@
+# Public Writing page. Newest first. Fields: authors, year, title, outlet, url.
+# {cv} is replaced with a link to the CV.
+heading: Select Public Writing
+closing: See my {cv} for additional public writing.
+
+columns:
+  - authors: Bird, Kelli A., and Benjamin L. Castleman
+    year: 2024
+    title: Selective Colleges and Universities Need to Do More to Enroll Low-Income Students
+    outlet: Brookings Brown Center Chalkboard
+    url: https://www.brookings.edu/articles/selective-colleges-and-universities-need-to-do-more-to-enroll-low-income-students/
+
+  - authors: Xu, Di, Benjamin L. Castleman, Kelli A. Bird, Sabrina Solanki, and Michael Cooper
+    year: 2023
+    title: Noncredit Workforce Training Programs Are Very Popular. We Know Next to Nothing about Them
+    outlet: Brookings Brown Center Chalkboard
+    url: https://www.brookings.edu/articles/noncredit-workforce-training-programs-are-very-popular-we-know-next-to-nothing-about-them/
+
+  - authors: Bird, Kelli A., Benjamin L. Castleman, Brett Fischer, and Benjamin T. Skinner
+    year: 2022
+    title: Why Aren't More Adults Finishing Community College?
+    outlet: Brookings Brown Center Chalkboard
+    url: https://www.brookings.edu/articles/why-arent-more-adults-finishing-community-college/
+
+  - authors: Barr, Andrew C., and Benjamin L. Castleman
+    year: 2021
+    title: To Level the Playing Field in College Completion, Invest in Advising
+    outlet: The Hill
+    url: https://thehill.com/opinion/education/579232-to-level-the-playing-field-in-college-completion-invest-in-advising
+
+  - authors: Castleman, Benjamin L.
+    year: 2021
+    title: Why Aren't Text Message Interventions Designed to Boost College Success Working at Scale?
+    outlet: Behavioral Scientist
+    url: https://behavioralscientist.org/why-arent-text-message-interventions-designed-to-boost-college-success-working-at-scale/
+
+  - authors: Bird, Kelli A., Benjamin L. Castleman, Zachary Mabel, and Yifeng Song
+    year: 2021
+    title: Big Data on Campus
+    outlet: Education Next
+    url: https://www.educationnext.org/big-data-on-campus-putting-predictive-analytics-to-the-test/
+
+  - authors: Meyer, Katharine, and Benjamin L. Castleman
+    year: 2021
+    title: Stackable Credentials Can Open Doors to New Career Opportunities
+    outlet: Brookings Brown Center Chalkboard
+    url: https://www.brookings.edu/articles/stackable-credentials-can-open-doors-to-new-career-opportunities/
+
+  - authors: Castleman, Benjamin L., and Alice Choe
+    year: 2019
+    title: Can Outcomes-Based Funding Support Evidence-Based College Success Programs?
+    outlet: Brookings Brown Center Chalkboard
+    url: https://www.brookings.edu/articles/can-outcomes-based-funding-support-evidence-based-college-success-programs/

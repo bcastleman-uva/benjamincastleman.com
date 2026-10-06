@@ -1,0 +1,77 @@
+# Research page.
+# Each entry: authors, year (optional), title, journal (optional), url (optional), ungated (optional).
+# For a paper without a public title yet, use `description:` instead of `title:` (shown without quotes).
+# Newest first — entries appear in the order listed.
+
+publications:
+  - authors: Bird, Kelli A., and Benjamin L. Castleman
+    year: Forthcoming
+    title: "Do Financial Incentives Increase the Take-Up and Impact of Large-Scale Programs? Experimental Evidence from a National College Advising Initiative"
+    journal: Journal of Political Economy Microeconomics
+    url: https://www.journals.uchicago.edu/doi/10.1086/740230
+    ungated: https://edworkingpapers.com/sites/default/files/Advising%20Plus%20full%20draft%20March%202024.pdf
+
+  - authors: Xu, Di, Kelli A. Bird, Michael Cooper, and Benjamin L. Castleman
+    year: 2026
+    title: Noncredit Workforce Training, Industry Credentials, and Labor Market Outcomes
+    journal: Journal of Public Economics
+    url: https://www.sciencedirect.com/science/article/pii/S0047272726001155
+
+  - authors: Bird, Kelli A., and Benjamin L. Castleman
+    year: 2026
+    title: "Do Embedded Supports Promote Engaged Learning? Experimental Evidence on Resource Use among Community College Students"
+    journal: AEA Papers and Proceedings
+    url: https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20261101
+
+  - authors: Barr, Andrew C., and Benjamin L. Castleman
+    year: 2025
+    title: "Increasing Degree Attainment among Low-Income Students: The Role of Intensive Advising and College Quality"
+    journal: American Economic Review
+    url: https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20240669
+
+  - authors: Kuan, Robert, Kristin Blagg, Benjamin L. Castleman, Rajeev Darolia, Jordan D. Matsudaira, Katherine L. Milkman, and Lesley J. Turner
+    year: 2025
+    title: "Behavioral Nudges Prevent Loan Delinquencies at Scale: A 13-Million-Person Field Experiment"
+    journal: Proceedings of the National Academy of Sciences
+    url: https://www.pnas.org/doi/10.1073/pnas.2416708122
+
+  - authors: Bird, Kelli A., Benjamin L. Castleman, and Yifeng Song
+    year: 2025
+    title: "Are Algorithms Biased in Education? Exploring Racial Bias in Predicting Community College Student Success"
+    journal: Journal of Policy Analysis and Management
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22569
+
+  - authors: Meyer, Katharine, Kelli A. Bird, and Benjamin L. Castleman
+    year: 2025
+    title: "Stacking the Deck for Employment Success: Labor Market Returns to Stackable Credentials"
+    journal: Journal of Human Resources
+    url: https://jhr.uwpress.org/content/60/1/129
+    ungated: https://edworkingpapers.com/sites/default/files/ai20-317.pdf
+
+  - authors: Barr, Andrew C., Kelli A. Bird, Benjamin L. Castleman, and William L. Skimmyhorn
+    year: 2025
+    title: "Can Information and Advising Affect Postsecondary Participation and Attainment for Military Personnel? Evidence from a Large-Scale Experiment with the U.S. Army"
+    journal: Journal of Policy Analysis and Management
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22572
+
+  - authors: Bird, Kelli A., Benjamin L. Castleman, Yifeng Song, and Renzhe Yu
+    year: 2025
+    title: "Is Big Data Better? LMS Data and Prediction Accuracy in Postsecondary Education"
+    journal: Journal of Research on Educational Effectiveness
+    url: https://www.tandfonline.com/doi/abs/10.1080/19345747.2024.2308306
+    ungated: https://edworkingpapers.com/ai22-647
+
+working_papers:
+  - authors: Castleman, Benjamin L., Denise Deutschlander, and Gabrielle Lohner
+    title: "Pushing College Advising Forward: Experimental Evidence on Intensive Advising and College Success"
+    url: https://edworkingpapers.com/sites/default/files/College_Forward_Paper_June24.pdf
+
+  - authors: Bird, Kelli A., and Benjamin L. Castleman
+    title: "Meeting People Where They Are: Experimental Evidence on Embedded Supports, Service Use, and Educational Outcomes"
+    url: https://edworkingpapers.com/ai26-1485
+
+  - authors: Barr, Andrew C., and Benjamin L. Castleman
+    description: "Labor market returns to intensive college advising: evidence from a randomized trial linked to federal earnings records"
+
+  - authors: Bird, Kelli A., and Benjamin L. Castleman
+    description: Experimental evidence from a five-cohort randomized trial of near-peer virtual remote advising
