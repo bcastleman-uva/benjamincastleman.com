@@ -76,9 +76,9 @@ email: castleman@virginia.edu (render as a mailto link)
 2. Bird, Kelli A., and Benjamin L. Castleman. "Meeting People Where They Are: Experimental Evidence on Embedded Supports, Service Use, and Educational Outcomes."
    - Title link: https://edworkingpapers.com/ai26-1485
 3. Barr, Andrew C., and Benjamin L. Castleman. Labor market returns to intensive college advising: evidence from a randomized trial linked to federal earnings records.
+   - Link: https://osf.io/5sb8c/files/c3yru (render without quotes as a plain description)
+4. Bird, Kelli A., and Benjamin L. Castleman. Experimental evidence from a five-cohort randomized trial of near-peer remote advising.
    - No link yet; render without quotes as a plain description. Ben will add the real title and link when released.
-4. Bird, Kelli A., and Benjamin L. Castleman. Experimental evidence from a five-cohort randomized trial of near-peer virtual remote advising.
-   - Same as item 3.
 
 Closing line (italic): *Full list of publications in my CV.* ("CV" links to the PDF)
 

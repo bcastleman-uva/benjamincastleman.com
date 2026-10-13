@@ -65,7 +65,11 @@ def citation(e, venue_key):
         else:
             parts.append(f"“{link(title, e.get('url'))}.”")
     elif e.get("description"):
-        parts.append(link(html.escape(end_punct(e["description"])), e.get("url")))
+        desc = html.escape(e["description"])
+        if desc[-1] in ".?!":
+            parts.append(link(desc, e.get("url")))
+        else:
+            parts.append(link(desc, e.get("url")) + ".")
     if e.get(venue_key):
         parts.append(f"<em>{html.escape(e[venue_key])}.</em>")
     if e.get("ungated"):
